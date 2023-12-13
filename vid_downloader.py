@@ -10,7 +10,7 @@ try:
 
     # Download the highest resolution stream
     yd = yt.streams.get_highest_resolution()
-    download_path = r'C:\Fullstack\WebGIS Videos'
+    download_path = r'C:\some_path\'
     yd.download(download_path)
 
     print("Download completed successfully. Video saved in:", download_path)
