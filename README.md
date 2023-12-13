@@ -5,15 +5,14 @@ This script downloads a YouTube video using the pytube library and saves it to a
 Dependencies
 Install the required dependencies using the following command:
 
-
 pip install pytube
+
 Usage
 Open the script in your preferred Python IDE.
 
 Replace the link variable with the YouTube video URL you want to download.
 
-python
-Copy code
+
 link = "https://www.youtube.com/watch?v="
 Run the script.
 
