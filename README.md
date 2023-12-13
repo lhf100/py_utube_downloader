@@ -17,7 +17,7 @@ link = "https://www.youtube.com/watch?v="
 Run the script.
 
 The script will print the title and views of the video, download the highest resolution stream, and save it to the specified local directory.
-Download completed successfully. Video saved in: C:\Fullstack\WebGIS Videos
+Download completed successfully. Video saved in: C:\your_path\videos
 Customization
 Download Path: You can customize the download_path variable to specify the directory where you want to save the downloaded video.
 
